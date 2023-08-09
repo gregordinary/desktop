@@ -4,9 +4,9 @@
   <div>OneKeePass</div>
 </h1>
 
-**OneKeePass** is a cross-platform,open source and secure password manager. It supports the KeePass-compatible database (Kdbx 4.x). It stores and manages all your passwords and other sensitive information in a single encrypted file that can be stored in any location, including private and public cloud solutions. The database is locked with a master key. 
+**OneKeePass** is a cross-platform, open source and secure password manager. It supports the KeePass-compatible database format (Kdbx 4.x). It stores and manages all your passwords and other sensitive information in a single encrypted file that can be stored in any location, including private and public cloud solutions. The database is locked with a master key. 
 
-All created database files are encrypted using the best and most secure encryption algorithms currently known (AES-256, ChaCha20).
+All OneKeePass-created database files are encrypted using the best and most secure encryption algorithms currently known (AES-256, ChaCha20).
 
 <h1 align="center">
   <img src="./screenshots/entrycategory-type-allentries.jpg" alt=""  />
@@ -16,13 +16,13 @@ All created database files are encrypted using the best and most secure encrypti
 
 ## Features
 - Simple and Modern UI
-- Entries are grouped as Types or Categories or the standard Group tree
-- Custom entry type with any set of fields can be created as template and used to create entries
+- Entries are grouped as Types, Categories, or as a standard Group tree
+- Custom entry types with any set of fields can be created as a template and used to create entries
 - Any number of custom fields can be added
 - Custom fields can be organized as sections
 - Any number of databases can be created and used
 - Fully offline 
-- Quick database unlock feature using TouchID for Mac OS
+- Quick database unlock feature using TouchID for macOS
 
 ## Todo
 - [ ] Upload attachments to an entry 
